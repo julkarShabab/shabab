@@ -1,0 +1,18 @@
+git init---
+git add <file name>---staging
+git commit -m'message' --- push to remote
+git push origin<branch name>
+
+
+//////////////
+git clone link --- in cmd or ctrl + shft + p --> clone 
+
+never push in master branch
+fetch & pull
+create a branch form master
+make changes
+push changes to your branch
+create a pull req
+ur leader will merge that in PR
+
+
